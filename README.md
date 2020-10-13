@@ -15,3 +15,6 @@ For downloading the datasets use the below link
 
 ![alt text](https://github.com/vishvpatel-97/recommendation_system_project/blob/master/best_popular_movies.png)
 
+### Top 10 movies based on Average votes & Popularity. 
+
+![alt text](https://github.com/vishvpatel-97/recommendation_system_project/blob/master/scored_movies.png)
