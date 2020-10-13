@@ -8,8 +8,10 @@ For downloading the datasets use the below link
 
 [(2)TMDB_5000_movies.csv](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
-### Best Movies by average votes
+### Top 10 best Movies by average votes
 ![alt text](https://github.com/vishvpatel-97/recommendation_system_project/blob/master/best_movies.png)
 
-### Best
+### Top 10 best movies by popularity
+
+![alt text]()
 
